@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1747137731159,
+    "customer": {
+      "name": "Mohamed Khaled Abdelmonem",
+      "address": "جيزة/فيصل",
+      "phone": "01123043854"
+    },
+    "items": [
+      {
+        "id": 6,
+        "name": "pant wide leg blue",
+        "category": "pants",
+        "price": 600,
+        "Image": "/src/components/assets/pant1.jpg",
+        "sizes": [
+          "M",
+          "L",
+          "XL"
+        ],
+        "status": "available",
+        "selectedSize": "M",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "pant wide leg blue",
+        "category": "pants",
+        "price": 600,
+        "Image": "/src/components/assets/pant1.jpg",
+        "sizes": [
+          "M",
+          "L",
+          "XL"
+        ],
+        "status": "available",
+        "selectedSize": "L",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "pant wide leg blue",
+        "category": "pants",
+        "price": 600,
+        "Image": "/src/components/assets/pant1.jpg",
+        "sizes": [
+          "M",
+          "L",
+          "XL"
+        ],
+        "status": "available",
+        "selectedSize": "XL",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1800,
+    "date": "5/13/2025, 3:02:11 PM"
+  },
+  {
+    "id": 1747138104191,
+    "customer": {
+      "name": "Mohamed Khaled Abdelmonem",
+      "address": "e;oboooooor",
+      "phone": "01123043854"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "pant wide leg blue",
+        "category": "pants",
+        "price": 600,
+        "Image": "/src/components/assets/pant1.jpg",
+        "sizes": [
+          "M",
+          "L",
+          "XL"
+        ],
+        "status": "available",
+        "selectedSize": "M",
+        "quantity": 2
+      },
+      {
+        "id": 3,
+        "name": "pant wide leg blue",
+        "category": "pants",
+        "price": 600,
+        "Image": "/src/components/assets/pant1.jpg",
+        "sizes": [
+          "M",
+          "L",
+          "XL"
+        ],
+        "status": "available",
+        "selectedSize": "L",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1800,
+    "date": "5/13/2025, 3:08:24 PM"
+  }
+]
