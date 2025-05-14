@@ -25,6 +25,7 @@ const storage = multer.diskStorage({
     }
 });
 const upload = multer({ storage: storage });
+app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
 const ORDERS_FILE_PATH = path.join(__dirname, 'orders.json');
 const PRODUCTS_FILE_PATH = path.join(__dirname, 'products.json');
