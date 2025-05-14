@@ -4,23 +4,23 @@
       "name": "sweet pant wide leg gray",
       "category": "pants",
       "price": 600,
-      "Image": "/uploads/frontgraypant.jepg",
+      "Image": "/uploads/frontgraypant.jpeg",
       "sizes": ["M", "L", "XL"],
       "status": "available",
-      "gallery": ["/uploads/frontgraypant.jepg", "/uploads/backgraypant.jepg"]
+      "gallery": ["/uploads/frontgraypant.jpeg", "/uploads/backgraypant.jpeg"]
     },
     {
       "id": 6,
       "name": "sweet pant wide leg black",
       "category": "pants",
       "price": 600,
-      "Image": "/uploads/backblackpant.jepg",
+      "Image": "/uploads/backblackpant.jpeg",
       "sizes": ["M", "L", "XL"],
       "status": "available",
       "gallery": [
-        "/uploads/backblackpant.jepg",
-        "/uploads/sideblackpant.jepg",
-        "/uploads/anotherside.jepg"
+        "/uploads/backblackpant.jpeg",
+        "/uploads/sideblackpant.jpeg",
+        "/uploads/anotherside.jpeg"
       ]
     }
   ]
